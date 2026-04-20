@@ -1,0 +1,7 @@
+condition,threshold,recommendation,evidence_level,mortality_benefit
+Sténose aortique sévère symptomatique,Gradient moyen ≥ 40 mmHg + symptômes,Chirurgie immédiate,I/B,↓ mortalité 3-5% vs attente
+Sténose aortique sévère asymptomatique,FEVG < 50% ou test effort positif,Chirurgie recommandée,IIa/B,↓ mortalité 1-2% à 2 ans
+Insuffisance mitrale primaire sévère,FEVG ≤ 60% ou DTSVG ≥ 45 mm,Chirurgie recommandée,I/B,↓ mortalité 2-4% vs attente
+Insuffisance mitrale fonctionnelle,FEVG < 30% + CRT non répondeur,Chirurgie à discuter,IIb/C,Bénéfice incertain
+Insuffisance aortique sévère,FEVG ≤ 50% ou DTDVG > 70 mm,Chirurgie recommandée,I/B,↓ mortalité 2-3% vs attente
+Insuffisance tricuspide sévère isolée,Symptômes réfractaires,Chirurgie à discuter,IIa/C,Données limitées

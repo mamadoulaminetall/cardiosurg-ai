@@ -1,0 +1,10 @@
+subgroup,rate_pct,ci_lower,ci_upper
+Age < 60 ans,12.4,9.1,16.2
+Age 60-70 ans,24.8,21.3,28.6
+Age > 70 ans,38.2,34.1,42.5
+CABG isolé,22.3,19.8,25.0
+Chirurgie valvulaire,34.7,31.2,38.4
+Chirurgie combinée,41.2,37.1,45.5
+FEVG > 50%,23.1,20.4,25.9
+FEVG 30-50%,31.8,28.2,35.6
+FEVG < 30%,42.6,37.4,47.9

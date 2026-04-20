@@ -1,0 +1,9 @@
+code,label,group_type,k,n_samples,rate_pooled,ci_lower,ci_upper,i2_pct,tau2,Q,Q_df
+mortality_30d,Mortalité 30 jours,outcome,10,74358,2.12,1.88,2.39,79.7,0.02862,44.42,9
+af_postop,Fibrillation auriculaire post-op,outcome,7,31231,24.37,23.28,25.51,80.6,0.00523,30.96,6
+aki_postop,Insuffisance rénale aiguë post-op,outcome,5,9561,15.85,14.11,17.77,83.5,0.02032,24.18,4
+stroke_postop,AVC post-opératoire,outcome,3,9237,2.47,2.01,3.04,58.9,0.02078,4.86,2
+reintubation,Réintubation,outcome,3,8730,6.27,5.71,6.88,23.5,0.00183,2.62,2
+cabg,Procédure : CABG,procedure,10,41204,8.67,5.56,13.27,99.6,0.58787,2144.46,9
+valve,Procédure : Valve,procedure,7,36106,7.34,2.97,17.04,99.8,1.64911,2894.78,6
+mixed,Procédure : Mixed,procedure,11,55807,5.14,2.35,10.86,99.7,1.87158,3743.78,10

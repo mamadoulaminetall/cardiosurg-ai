@@ -1,0 +1,11 @@
+feature,importance_rf,odds_ratio,ci_lower,ci_upper,p_value,direction
+EuroSCORE II (per point),0.312,1.84,1.61,2.1,<0.001,positive
+Age (per decade),0.198,1.52,1.38,1.68,<0.001,positive
+LVEF < 30%,0.171,2.34,1.98,2.77,<0.001,positive
+Durée CEC > 120 min,0.143,1.71,1.52,1.93,<0.001,positive
+Créatinine > 200 µmol/L,0.118,1.89,1.63,2.19,<0.001,positive
+Chirurgie urgente,0.092,2.12,1.74,2.58,<0.001,positive
+Diabète insulino-requérant,0.071,1.38,1.21,1.57,<0.001,positive
+Chirurgie antérieure,0.065,1.62,1.38,1.9,<0.001,positive
+HTAP sévère (>55 mmHg),0.058,1.47,1.24,1.74,<0.001,positive
+Sexe féminin,0.041,1.21,1.08,1.36,0.001,positive

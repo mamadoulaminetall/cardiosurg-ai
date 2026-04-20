@@ -3,7 +3,7 @@
 **Clinical Decision Support Platform for Cardiac Surgery**  
 *First unified SaaS tool combining EuroSCORE II augmentation, ML complication prediction, valve timing guidance, and operative report generation.*
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cardiosurgai.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cardiosurg-ai.streamlit.app)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![medRxiv](https://img.shields.io/badge/medRxiv-preprint-red)](https://medrxiv.org)
 

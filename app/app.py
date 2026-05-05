@@ -80,6 +80,7 @@ with st.sidebar:
         "**MedFlow AI** · Montpellier, France  \n"
         "[medflowailanding.streamlit.app](https://medflowailanding.streamlit.app)"
     )
+    st.markdown("""<a href="https://buy.stripe.com/28E9ATdbO9p348C7b0b3q06" target="_blank" style="display:block;background:linear-gradient(135deg,#10b981,#059669);color:white;text-align:center;padding:11px 16px;border-radius:9px;font-weight:700;text-decoration:none;font-size:0.87rem;margin-top:10px">💳 S'abonner — 79€/mois</a>""", unsafe_allow_html=True)
 
 # ════════════════════════════════════════════════════════════════════════════
 # MODULE 1 — CALCULATEUR DE RISQUE

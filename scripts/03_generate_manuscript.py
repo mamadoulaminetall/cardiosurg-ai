@@ -84,7 +84,7 @@ story.append(Paragraph(
     "and Machine Learning Decision-Support Platform", TITLE))
 story.append(Spacer(1, 0.3*cm))
 story.append(Paragraph("Mamadou Lamine TALL, PhD", AUTH))
-story.append(Paragraph("Research Engineer · Bioinformatics & Biostatistics | MedFlow AI, Montpellier, France", AUTH))
+story.append(Paragraph("Aix Marseille Univ, IRD, MEPHI, APHM, IHU-Méditerranée Infection, Marseille, France | MedFlow AI", AUTH))
 story.append(Paragraph("mamadoulaminetallgithub@gmail.com", AUTH))
 story.append(Paragraph("Submitted: April 2026 | medRxiv Preprint", AUTH))
 story.append(Spacer(1, 0.4*cm))
